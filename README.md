@@ -1,2 +1,2 @@
-# [PROJECT_NAME]
-description for [PROJECT_NAME]
+# <PROJECT_NAME>
+description for <PROJECT_NAME>
