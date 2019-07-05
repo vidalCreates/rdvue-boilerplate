@@ -1,2 +1,2 @@
-# rdvue-boilerplate
-boilerplate for rdvue
+# [PROJECT_NAME]
+description for [PROJECT_NAME]
